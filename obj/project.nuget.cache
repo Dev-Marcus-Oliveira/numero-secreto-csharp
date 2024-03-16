@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0kq58iABhMw2kpxEecVWET5N6X8aFr2D0Iqm8+SJ0FUFPguItz70yaWITAL2+ZKAE70s+TkyeWJqwjKO76o0Wg==",
+  "dgSpecHash": "mqyiQZS4NvXik8UzXMsI7WTuTEi17J4KXdlugWRv1M9MRKQBWwxsxehmGq2Md5XP3qbh7fkoSNRvtJoH8lHD0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\marcu\\Desktop\\T.I\\Alura\\C#\\Numero secreto\\Numero secreto.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.16\\microsoft.netcore.app.runtime.win-x64.7.0.16.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.16.nupkg.sha512",
+    "C:\\Users\\marcu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.16\\microsoft.aspnetcore.app.runtime.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
